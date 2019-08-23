@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EspTouch</string>
+    <string name="app_name">EspTouch: SmartConfig for ESP8266, ESP32</string>
     <string name="menu_item_about">About App</string>
     <string name="about_app_version">App Version: %s</string>
     <string name="about_esptouch_version">EspTouch Version: %s</string>
@@ -18,6 +18,6 @@
     <string name="configure_wifi_change_message">Wifi disconnected or changed</string>
     <string name="configure_result_failed">EspTouch failed</string>
     <string name="configure_result_failed_port">Create Esptouch task failed, the EspTouch port could be used by other thread</string>
-    <string name="configure_result_success">EspTouch 完成</string>
+    <string name="configure_result_success">Success</string>
     <string name="configure_result_success_item">BSSID = %1$s, InetAddress = %2$s</string>
 </resources>
